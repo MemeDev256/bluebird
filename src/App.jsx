@@ -19,12 +19,12 @@ function App() {
         <section className="card">
           <h2>Welcome to Bluebird</h2>
           <p>
-            The meme coin for the next generation of crypto enthusiasts. Address
-            is GzAWwhy3fJLqtCu8uR5xAojtC45KLTRD63CjunZ8moon
+            The meme coin for the next generation of crypto enthusiasts.
             <br />
             Join the flock, spread your wings, and let’s fly to the moon
             together!
           </p>
+          <p>Address is GzAWwhy3fJLqtCu8uR5xAojtC45KLTRD63CjunZ8moon</p>
           <ul>
             <li>Community-driven and fun</li>
             <li>Fair launch, no presale</li>
