@@ -19,7 +19,8 @@ function App() {
         <section className="card">
           <h2>Welcome to Bluebird</h2>
           <p>
-            The meme coin for the next generation of crypto enthusiasts.
+            The meme coin for the next generation of crypto enthusiasts. Address
+            is GzAWwhy3fJLqtCu8uR5xAojtC45KLTRD63CjunZ8moon
             <br />
             Join the flock, spread your wings, and let’s fly to the moon
             together!
